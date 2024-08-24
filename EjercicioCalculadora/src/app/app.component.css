@@ -1,0 +1,18 @@
+.fondo{
+    background-color: #166866;
+    color: whitesmoke;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+
+.container{
+    padding: 30px;
+    width: 30%;
+    background-color: #73a4a3;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px black;
+}
